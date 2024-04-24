@@ -1,0 +1,13 @@
+node_modules
+.vscode
+artifacts
+cache
+package-lock.json
+.deps
+.env
+bin
+.openzeppelin
+.DS_Store
+.history
+.VSCodeCounter
+.idea
